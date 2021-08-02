@@ -26,6 +26,7 @@ a{
     max-width: 1200px;
 
     margin: 0 auto;
+    padding: 8px 24px;
 }
 
 .border{
@@ -64,4 +65,16 @@ a{
 
     color: $white-light;
     padding: 8px;
+}
+
+.img-profile{
+    width: 56px;
+    height: 56px;
+    background-color: $gray-2;
+    border-radius: 50%;
+}
+
+.container-posts{
+    display: flex;
+
 }
